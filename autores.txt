@@ -1,0 +1,3 @@
+﻿Fernando Burrieza Galán - 100405990 - Microcontrolled system supervisor
+Diego del Río Manzanas - 100405850 - HW develop supervisor
+Jaime Ortega Pérez - 100405922 - Embedded design supervisor
