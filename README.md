@@ -10,6 +10,12 @@ We have two systems involved in the control of the wagon:
 
  -  **Main Controller:** This part collects the information from the microcontroller and execute the logical operations 
 
+## Structure of the Folders
+
+1. Source_Code: It provides the codes for the micro and main controller parts. We have 4 different sections (from A to D), in which each one is in charge of controlling some of the sensors that I'm going to explain further.
+
+2. Videos: This folder will contain some videos to show the implementation. Also, I have tested the behaviour of both parts when arduino receives messages from the main Controller. 
+
 ## Sensors in the Microcontroller
 
  1. **Velocimeter:** The Arduino will compute the speed at a certain period. This value will be send to the main controller. The speed is represented with a Led that has a variable brightness. The led will bright in a range between 40 and 70 km/h.  
